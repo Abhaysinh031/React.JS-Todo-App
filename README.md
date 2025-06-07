@@ -44,3 +44,15 @@ git clone https://github.com/Abhaysinh031/React.JS-Todo-App.git
 cd react-todo-app
 
 ```
+
+### 2. **Install dependencies**
+
+```bash
+npm install
+```
+
+### 3. **Start the project**
+
+```bash
+npm start
+```
